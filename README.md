@@ -4,7 +4,7 @@
 
 ## 📸 效果展示
 
-![TCP拥塞控制可视化系统运行截图](src/img/screenshot.png)
+![TCP拥塞控制可视化系统运行截图](src/img/image.png)
 
 ## ✨ 功能特点
 
